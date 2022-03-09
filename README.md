@@ -6,5 +6,5 @@ Mini-Program for Beginners Using [ CSharp ]
 2. WTF Form Tools
 
 # Thumbnail
-![](thumb.PNG)
+![](thumb.png)
 
